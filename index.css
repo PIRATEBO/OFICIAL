@@ -37,7 +37,7 @@ button:hover{
 /*header*/
 
 .container{
-    max-width: 1200px;
+    max-width: 1400px;
     margin: auto;
 }
 
@@ -267,7 +267,7 @@ header nav a:hover{
     text-align: center;
     background-color: rgb(30,30,30);
     color: white;
-    height: 100vh;
+    height: 120vh;
 }
 
 #grupo h2{
@@ -306,7 +306,7 @@ footer .container{
     align-items: flex-end;
 }
 
-@media (min-width: 1000px){
+@media (min-width: 800px){
    
    header{
         position: fixed;
