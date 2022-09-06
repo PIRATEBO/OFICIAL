@@ -306,7 +306,7 @@ footer .container{
     align-items: flex-end;
 }
 
-@media (min-width: 800px){
+@media (min-width: 1400px){
    
    header{
         position: fixed;
