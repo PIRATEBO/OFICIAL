@@ -37,7 +37,7 @@ button:hover{
 /*header*/
 
 .container{
-    max-width: 1400px;
+    max-width: 1200px;
     margin: auto;
 }
 
@@ -450,7 +450,7 @@ footer .container{
     }
  }	
 
-@media (min-width: 1000px) {
+@media (min-width: 1200px) {
     #characteristic{
         background-position-x: calc(100vw - 800px);
     }
