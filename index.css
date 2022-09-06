@@ -37,7 +37,7 @@ button:hover{
 /*header*/
 
 .container{
-    max-width: 1400px;
+    max-width: 1000px;
     margin: auto;
 }
 
@@ -306,7 +306,7 @@ footer .container{
     align-items: flex-end;
 }
 
-@media (min-width: 800px){
+@media (min-width: 1000px){
    
    header{
         position: fixed;
