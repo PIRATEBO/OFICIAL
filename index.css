@@ -33,7 +33,7 @@ button:hover{
 /*header*/
 
 .container{
-    max-width: 1000px auto;
+    max-width: 1000px AUTO;
     margin: auto;
 }
 
