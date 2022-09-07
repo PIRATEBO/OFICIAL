@@ -262,7 +262,7 @@ header nav a:hover{
     text-align: center;
     background-color: rgb(30,30,30);
     color: white;
-    height: 120vh;
+    height: 100vh;
 }
 
 #grupo h2{
@@ -304,7 +304,7 @@ footer .container{
 @media (min-width: 1000px){
    
    header{
-        position: fixed;
+        position: fixed auto;
         width: 100%;
     }
 	
