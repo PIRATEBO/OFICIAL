@@ -2,10 +2,6 @@
     box-sizing: border-box;
 }
 
-html{
-    scroll-behavior: smooth;
-}
-
 body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -37,7 +33,7 @@ button:hover{
 /*header*/
 
 .container{
-    max-width: 800px;
+    max-width: 1000px;
     margin: auto;
 }
 
